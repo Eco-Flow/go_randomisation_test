@@ -1,0 +1,10 @@
+work
+results
+Go
+.nextflow*
+.DS_Store
+.nf-test*
+nextflow
+nf-test
+apptainer
+input.csv
